@@ -15,6 +15,7 @@ This project explores Denoising Diffusion Probabilistic Models (DDPM) and their 
     <img src="Data sample/poke1.png" width="10%">
     <img src="Data sample/poke2.png" width="10%">
     <img src="Data sample/poke3.png" width="10%">
+<div>
 
 ## Project Structure
 
@@ -67,15 +68,12 @@ This project explores Denoising Diffusion Probabilistic Models (DDPM) and their 
     <img src="Final results/1.png" width="10%">
     <img src="Final results/2.png" width="10%">
     <img src="Final results/3.png" width="10%">
-    <img src="Final results/4.png" width="10%">
     <img src="Final results/5.png" width="10%">
     <img src="Final results/6.png" width="10%">
-    <img src="Final results/7.png" width="10%">
     <img src="Final results/8.png" width="10%">
     <img src="Final results/9.png" width="10%">
     <img src="Final results/10.png" width="10%">
     <img src="Final results/11.png" width="10%">
-    <img src="Final results/12.png" width="10%">
 </div>
 
 ## Key Takeaways
