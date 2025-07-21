@@ -57,7 +57,7 @@ This project explores Denoising Diffusion Probabilistic Models (DDPM) and their 
   - Confirmed that visual features aligned with the dataset's style.
 
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 10px; aspect-ratio: 3/4;">
     <img src="Final results/1.png" width="10%">
     <img src="Final results/2.png" width="10%">
     <img src="Final results/3.png" width="10%">
