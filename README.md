@@ -8,7 +8,7 @@ GitHub: [github.com/Alexndrs/diffusion-image-Generator](https://github.com/Alexn
 
 ## Overview
 
-This project explores Denoising Diffusion Probabilistic Models (DDPM) and their improved variants to generate 64×64 Pokémon-like images from noise. The work is part of a reproduction effort and aims to deepen theoretical and practical understanding of diffusion-based generative models.
+This project explores Denoising Diffusion Probabilistic Models (DDPM) and their improved variants to generate 64×64 Pokémon-like images from noise. The work is part of a reproduction effort and aims to deepen theoretical and practical understanding of diffusion-based generative models. A report with further results and theoretical explanations is available in this repository at [DDPM_Pokemon_Generator](/DDPM_Pokemon_Generator.pdf)
 
 ### Data sample
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 10px; aspect-ratio: 3/4;">
