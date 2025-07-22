@@ -9,12 +9,26 @@ Affiliations: Polytechnique Montréal, ENSTA Paris, Centrale Méditerranée
 
 This project explores Denoising Diffusion Probabilistic Models (DDPM) and their improved variants to generate 64×64 Pokémon-like images from noise. The work is part of a reproduction effort and aims to deepen theoretical and practical understanding of diffusion-based generative models. A report with further results and theoretical explanations is available in this repository at [DDPM_Pokemon_Generator](/DDPM_Pokemon_Generator.pdf).
 
-### Data sample
+#### Data sample
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 10px; aspect-ratio: 3/4;">
     <img src="Data sample/poke1.png" width="10%">
     <img src="Data sample/poke2.png" width="10%">
     <img src="Data sample/poke3.png" width="10%">
 <div>
+
+#### Final results
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 10px; aspect-ratio: 3/4;">
+    <img src="Final results/1.png" width="10%">
+    <img src="Final results/2.png" width="10%">
+    <img src="Final results/3.png" width="10%">
+    <img src="Final results/5.png" width="10%">
+    <img src="Final results/6.png" width="10%">
+    <img src="Final results/8.png" width="10%">
+    <img src="Final results/9.png" width="10%">
+    <img src="Final results/10.png" width="10%">
+    <img src="Final results/11.png" width="10%">
+</div>
+
 
 ## Project Structure
 
@@ -62,18 +76,6 @@ This project explores Denoising Diffusion Probabilistic Models (DDPM) and their 
   - Often recognized creature-like features and related them to games like Pokémon or Digimon.
   - Confirmed that visual features aligned with the dataset's style.
 
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr); gap: 10px; aspect-ratio: 3/4;">
-    <img src="Final results/1.png" width="10%">
-    <img src="Final results/2.png" width="10%">
-    <img src="Final results/3.png" width="10%">
-    <img src="Final results/5.png" width="10%">
-    <img src="Final results/6.png" width="10%">
-    <img src="Final results/8.png" width="10%">
-    <img src="Final results/9.png" width="10%">
-    <img src="Final results/10.png" width="10%">
-    <img src="Final results/11.png" width="10%">
-</div>
 
 ## Key Takeaways
 
